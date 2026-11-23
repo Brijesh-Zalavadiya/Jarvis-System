@@ -29,6 +29,4 @@ if __name__=="__main__":
 
 
 
-# C:\Users\Admin\AppData\Local\Programs\Python\Python312\python.exe -m venv venv
-# .\venv\Scripts\activate
-# python --version
+
