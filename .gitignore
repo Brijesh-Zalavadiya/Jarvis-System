@@ -1,0 +1,4 @@
+venv/
+check_audio.py
+test_mic.py
+test_pyaudio.py
